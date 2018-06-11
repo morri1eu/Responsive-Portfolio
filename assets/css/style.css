@@ -330,7 +330,7 @@ input[type=submit] {
 }
 @media (max-width: 980px){
   .main-section{
-    width: 70%;
+    min-width: 70%;
     margin-left: 5%;
   }
   #logo{
